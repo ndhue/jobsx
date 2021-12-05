@@ -33,7 +33,7 @@ function Index() {
         <span></span>
         {/* RIGHT */}
         <Right>
-          <Image src="../../assets/cvtemplate.png" alt="CV-image"></Image>
+          <Image src="./assets/cvtemplate.png" alt="CV-image"></Image>
         </Right>
       </Content>
     </Container>

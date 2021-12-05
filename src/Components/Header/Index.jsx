@@ -27,7 +27,7 @@ function Index() {
     <Container>
       <Content>
         <Company>
-          <Logo key="1" src="../../assets/logo-web2.png" alt="logo-web"></Logo>
+          <Logo key="1" src="./assets/logo-web2.png" alt="logo-web"></Logo>
           <Name>JobsX</Name>
         </Company>
 
@@ -49,7 +49,7 @@ function Index() {
         {status ? (
           <img
             key="2"
-            src="../../assets/template/avatar-template-1.jpg"
+            src="./assets/template/avatar-template-1.jpg"
             alt="avt-user"
           />
         ) : (

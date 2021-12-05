@@ -34,7 +34,7 @@ function Index() {
             </BodyLeftBottom>
           </BodyLeft>
 
-          <BodyRight src="../../assets/Carousel-art.png"></BodyRight>
+          <BodyRight src="./assets/Carousel-art.png"></BodyRight>
         </Body>
       </Content>
     </Container>

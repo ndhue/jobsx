@@ -2,7 +2,7 @@
   "name": "jobsx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//ndhue.github.io/jobsx",
+  "homepage": ".",
   "dependencies": {
     "@mui/icons-material": "^5.2.0",
     "@testing-library/jest-dom": "^5.15.1",
